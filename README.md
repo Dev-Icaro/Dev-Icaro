@@ -2,7 +2,7 @@
 ## Olá eu sou o Icaro Kiiler Melo ! 
 
 - 🔭 Desenvolvedor na Softica Informática 
-- 🌱 Estou estudando tecnologias voltadas ao Back-end porem meu objetivo é me tornar Web Full Stack...
+- 🌱 Estou estudando tecnologias voltadas ao Back-end como Node.js e ORM's porem meu objetivo é me tornar Web Full Stack...
 - 👯 Busco trabalhar com tecnologias voltada a Web development.
 
 ##
