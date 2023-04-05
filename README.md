@@ -7,6 +7,12 @@
 
 ##
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Icaro&show_icons=true&theme=radical)](https://github.com/Dev-Icaro/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Icaro&layout=compact&theme=radical)](https://github.com/Dev-Icaro/github-readme-stats)
+
+##
+
 <div style="display: inline-block"> <br>
   <img align="center" alt="Icaro-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Icaro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -17,10 +23,6 @@
 </div>
 
 ## 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Icaro&show_icons=true&theme=radical)](https://github.com/Dev-Icaro/github-readme-stats)
-
-##
 
 <div>
    <a href="mailto:icarokiilermelo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
