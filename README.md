@@ -1,9 +1,9 @@
 
 ## Olá eu sou o Icaro Kiiler Melo ! 
 
-- 🔭 Desenvolvedor na Softica Informática 
-- 🌱 Meus estudos estão focados no back-end e técnologias relacionadas, atualmente estou me aprofundando no NodeJS e express, com ORM's,    banco de dados relacionais e não relacionais.
-- 👯 Busco trabalhar com tecnologias voltada a Web development.
+- 🔭 Desenvolvedor Fullstack na Softica Informática 
+- 🌱 Foco em Web Development e automações.
+- 👯 Minhas principais stacks são React e NodeJS.
 
 ##
 
