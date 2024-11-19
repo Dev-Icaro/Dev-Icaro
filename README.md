@@ -3,7 +3,7 @@
 
 - 🔭 Desenvolvedor Fullstack na Softica Informática 
 - 🌱 Foco em Web Development e automações.
-- 👯 Minhas principais stacks são React e NodeJS.
+- 👯 Minhas principais stacks são Node, React, AWS, NextJS e Typescript.
 
 ##
 
