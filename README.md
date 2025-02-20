@@ -1,9 +1,9 @@
 
 ## Olá eu sou o Icaro Kiiler Melo ! 
 
-- 🔭 Desenvolvedor Fullstack na Softica Informática 
+- 🔭 Desenvolvedor Backend Senior na Alloha Fibra.
 - 🌱 Foco em Web Development e automações.
-- 👯 Minhas principais stacks são Node, React, AWS, NextJS e Typescript.
+- 🚀 Minhas principais stacks são Node, React, AWS, NextJS e Typescript.
 
 ##
 
