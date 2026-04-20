@@ -31,7 +31,8 @@ until the end of 2019, we delivered three successful projects using our IoT plat
 🌡️ One of business partners of [Airtrak](https://www.instagram.com/airtrak/), a Brazilian company aimed to produce
 smart meteorological stations, to give insights and advice to runners.
 
-💻 Languages & Frameworks
+## ⚙️ Technologies and Tools
+
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -44,9 +45,6 @@ smart meteorological stations, to give insights and advice to runners.
 ![](https://img.shields.io/badge/Code-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Prisma-informational?style=flat&logo=prisma&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Methodology-Scrum-informational?style=flat&logo=scrumalliance&logoColor=white&color=2bbc8a)
-
-☁️ DevOps & Cloud
-
 ![](https://img.shields.io/badge/DevOps-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DevOps-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DevOps-Cloudflare-informational?style=flat&logo=cloudflare&logoColor=white&color=2bbc8a)
@@ -58,9 +56,6 @@ smart meteorological stations, to give insights and advice to runners.
 ![](https://img.shields.io/badge/DevOps-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DevOps-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DevOps-CI%2FCD-informational?style=flat&logo=githubactions&logoColor=white&color=2bbc8a)
-
-🗄️ Database & Messaging
-
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
@@ -69,9 +64,6 @@ smart meteorological stations, to give insights and advice to runners.
 ![](https://img.shields.io/badge/Database-DynamoDB-informational?style=flat&logo=amazondynamodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Messaging-SQS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Messaging-SNS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
-
-🧠 Architecture & Design
-
 ![](https://img.shields.io/badge/Architecture-Microservices-informational?style=flat&logo=microgenetics&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Architecture-REST-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Principles-Clean%20Code-informational?style=flat&logo=codefactor&logoColor=white&color=2bbc8a)
@@ -81,16 +73,10 @@ smart meteorological stations, to give insights and advice to runners.
 ![](https://img.shields.io/badge/Testing-BDD-informational?style=flat&logo=cucumber&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Testing-TDD-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Architecture-Monorepo-informational?style=flat&logo=nx&logoColor=white&color=2bbc8a)
-
-🧪 Testing & QA
-
 ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Test-Vitest-informational?style=flat&logo=vitest&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Test-Cucumber-informational?style=flat&logo=cucumber&logoColor=white&color=2bbc8a)
-
-📊 Monitoring & Observability
-
 ![](https://img.shields.io/badge/Monitoring-Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Monitoring-Grafana-informational?style=flat&logo=grafana&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Monitoring-New%20Relic-informational?style=flat&logo=newrelic&logoColor=white&color=2bbc8a)
