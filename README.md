@@ -22,7 +22,7 @@ a SaaS ERP platform focused on delivering business solutions.
 
 ### Highlights
 
-🚿 Founded Asas ERP in 2025, a SaaS ERP platform and technology consulting firm for businesses and industries, 
+🚀 Founded Asas ERP in 2025, a SaaS ERP platform and technology consulting firm for businesses and industries, 
 where by the end of 2025 we achieved over R$600K (~$100K USD) in revenue through system licenses and consulting projects.
 
 🏢 Experienced Senior Software Engineer at industry leaders such as Alloha Fibra (Brazil's largest independent fiber optic provider) and 
