@@ -1,16 +1,14 @@
 # Hello, Folks! I'm Icaro Kiiler Melo ✌️
 
-💻 Owner of Rust Async Websockets library: [Socket-Flow](https://github.com/felipemeriga/socket-flow)
+💻 Co-Founder and Software Engineer [Asas ERP](https://asaserp.com.br/) 
 
-💻 Senior Software Engineer [Kake](https://kake.co/) 
-
-💻 Senior Blockchain/Fullstack Engineer [Tokenizer](https://tokenizer.cc/)
+💻 My own social media [Nexora](https://nexora-khaki-theta.vercel.app/)
 
 ✈️ Digital Nomad Enthusiast
 
 💬 [LinkedIn](https://www.linkedin.com/in/icaro-kiiler-melo-3013ba26b/) 
 
-ℹ️ [Website/Blog](https://dev-icaro.vercel.app/en-US) 
+ℹ️ [Website/Portfolio](https://dev-icaro.vercel.app/en-US) 
 
 
 ## 😀 About me
@@ -25,11 +23,11 @@ a SaaS ERP platform focused on delivering business solutions.
 
 ### Highlights
 
-🚿 Founded IO-Shower startup in 2018, aimed at producing smart devices to control commercial shower, where
-until the end of 2019, we delivered three successful projects using our IoT platform and devices.
+🚿 Founded Asas ERP in 2025, a SaaS ERP platform and technology consulting firm for businesses and industries, 
+where by the end of 2025 we achieved over R$600K (~$100K USD) in revenue through system licenses and consulting projects.
 
-🌡️ One of business partners of [Airtrak](https://www.instagram.com/airtrak/), a Brazilian company aimed to produce
-smart meteorological stations, to give insights and advice to runners.
+🏢 Experienced Senior Software Engineer at industry leaders such as Alloha Fibra (Brazil's largest independent fiber optic provider) and 
+Softica (one of Brazil's largest intellectual property software companies), delivering scalable solutions across high-impact enterprise environments.
 
 ## ⚙️ Technologies and Tools
 
