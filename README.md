@@ -14,8 +14,7 @@
 ## 😀 About me
 
 Hello Everyone, I'm Icaro Kiiler Melo, I'm Brazilian whom currently live 
-
-In Brazil and work as a Senior Software Engineer.
+in Brazil and work as a Senior Software Engineer.
 Mainly of my professionals experiences are focused on Full Stack Web Development,
 Cloud Infrastructure, and RPA.
 In Brazil, I was one of the founders of a startup called Asas ERP, 
@@ -62,19 +61,20 @@ Softica (one of Brazil's largest intellectual property software companies), deli
 
 ## 🚧 Latest Projects
 
-### [Socket-Flow](https://github.com/felipemeriga/socket-flow)
-Straightforward async Websockets library for Rust.
+### [Nexora](https://github.com/Dev-Icaro/nexora)
+Nexora is a full-stack social network I built from scratch, designed as a space for people to share ideas, 
+document their learning journey, and connect over common interests. It supports user-generated content in a clean, 
+community-focused feed — think of it as a personal corner of the internet where knowledge and curiosity meet.
 
-### [Artemis-Network](https://github.com/felipemeriga/artemis-network)
-A proof-of-work based blockchain network, with a focus on helping developers to learn how to build a blockchain from scratch.
+### [Homer-IA](https://github.com/Dev-Icaro/homer-ia)
+Homer-IA is an AI-powered home assistant built for real life. My wife and I use it daily to coordinate household tasks, 
+track shopping lists, compare product prices, and stay on top of our to-dos — all through a conversational interface. 
+It's a practical experiment in making AI genuinely useful at home.
 
-### [NGO-DAO](https://github.com/felipemeriga/ngo-dao)
-A decentralized application (dApp) interface for managing an NGO's decentralized autonomous organization (DAO). This platform enables volunteers to contribute ETH and participate in democratic decision-making for fund allocation.
-
-### [Emberblast](https://github.com/felipemeriga/Emberblast)
-
-This is an Open Source Python Command Line RPG Arena game,
-that has custom configuration, where players can create their own equipments, spells, and classes.
+### [PET Impacta](https://github.com/Dev-Icaro/pet-impacta)
+PET Impacta is a SaaS management platform built specifically for local pet shops. It streamlines day-to-day 
+operations by centralizing pet records, appointments, and inventory in one place — giving small business owners 
+the tools they need to run professionally without the complexity of enterprise software.
 
 ## Working with me
 
