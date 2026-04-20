@@ -98,15 +98,6 @@ A decentralized application (dApp) interface for managing an NGO's decentralized
 This is an Open Source Python Command Line RPG Arena game,
 that has custom configuration, where players can create their own equipments, spells, and classes.
 
-## ✍️ Blog and Writing 
-
-Apart from coding, I also maintain some technical/social articles on my blog, and there is 
-also my channel on YouTube with some tutorials.
-
-📚[My Blog](https://felipemeriga.hashnode.dev/)
-
-Check out also, my [YouTube channel](https://www.youtube.com/@felipemerigadon), where I have a lot of courses.
-
 ## Working with me
 
 With the mentality of absorbing and learning everything from all the situations present in my life, mainly in the
@@ -126,8 +117,6 @@ if they really understand what the current project/task is about, and if I can h
 Most of my repositories are public, and meant to be opensource applications; they are mainly focused in the following areas:
 - Backend
 - Frontend
-- Blockchain
 - Infrastructure as Code/Configuration Management
-- Internet of Things
-- Mobile applications
+- IA
 
