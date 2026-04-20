@@ -68,7 +68,7 @@ community-focused feed — think of it as a personal corner of the internet wher
 
 ### [Homer-IA](https://github.com/Dev-Icaro/homer-ia)
 Homer-IA is an AI-powered home assistant built for real life. My wife and I use it daily to coordinate household tasks, 
-track shopping lists, compare product prices, and stay on top of our to-dos — all through a conversational interface. 
+track shopping lists, compare product prices, and stay on top of our to-dos — all through whatsapp app. 
 It's a practical experiment in making AI genuinely useful at home.
 
 ### [PET Impacta](https://github.com/Dev-Icaro/pet-impacta)
