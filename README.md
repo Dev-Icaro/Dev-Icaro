@@ -6,7 +6,7 @@
 
 ✈️ Digital Nomad Enthusiast
 
-💬 [LinkedIn](https://www.linkedin.com/in/icaro-kiiler-melo-3013ba26b/) 
+💬 [LinkedIn](https://www.linkedin.com/in/icarokiilermelo/) 
 
 ℹ️ [Website/Portfolio](https://dev-icaro.vercel.app/en-US) 
 
